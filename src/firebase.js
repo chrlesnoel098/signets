@@ -4,12 +4,13 @@ import 'firebase/firestore';
 
 // Configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyApFgQfnSKcB91VDdBt3P0wzV0Lw3R_q_M",
-  authDomain: "cdem-react-b9df6.firebaseapp.com",
-  projectId: "cdem-react-b9df6",
-  storageBucket: "cdem-react-b9df6.appspot.com",
-  messagingSenderId: "1090557461168",
-  appId: "1:1090557461168:web:6f4781563ca73d4d393175"
+  apiKey: "AIzaSyAgAp5tFRToZSLAeI-5M8rBFe03_bqVQMQ",
+  authDomain: "cn-react.firebaseapp.com",
+  projectId: "cn-react",
+  storageBucket: "cn-react.appspot.com",
+  messagingSenderId: "1065458615900",
+  appId: "1:1065458615900:web:9683312b2cd05b8938c899",
+  measurementId: "G-MLZRKV9EJ3"
 };
 
 // Initialiser Firebase
